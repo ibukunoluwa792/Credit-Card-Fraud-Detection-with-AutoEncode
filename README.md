@@ -52,3 +52,35 @@ Each model was evaluated using:
 
 ## 📁 Project Structure
 
+```
+.
+├── data
+│   └── creditcardfraud.zip
+├── fraud_detection.ipynb
+├── LICENSE
+├── logs
+│   ├── events.out.tfevents.1497173435.poincare
+│   ├── events.out.tfevents.1497174259.poincare
+│   ├── events.out.tfevents.1497174328.poincare
+│   ├── events.out.tfevents.1497175610.poincare
+│   ├── events.out.tfevents.1497175679.poincare
+│   ├── events.out.tfevents.1497176316.poincare
+│   └── events.out.tfevents.1497193550.poincare
+├── model.h5
+└── README.md
+
+2 directories, 12 files
+```
+
+## ✅ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ibukunoluwa792/Credit-Card-Fraud-Detection-with-AutoEncode.git
+   cd Credit-Card-Fraud-Detection-with-AutoEncode
+```
+2. Install Requirements
+```
+pip install -r requirements.txt
+```
+
