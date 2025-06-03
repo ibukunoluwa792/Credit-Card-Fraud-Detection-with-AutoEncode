@@ -1,13 +1,54 @@
-# Credit Card Fraud Detection using Autoencoders in Keras
+# 🕵️‍♂️ Fraud Detection Using Machine Learning
 
-Full explanation can be found in [this blog post](https://www.curiousily.com/posts/credit-card-fraud-detection-using-autoencoders-in-keras/). The source code is compatible with TensorFlow 1.1 and Keras 2.0.4
+This project explores the detection of fraudulent transactions using machine learning techniques. It leverages data preprocessing, exploratory data analysis (EDA), and multiple classification algorithms to identify suspicious activities in financial datasets.
 
-### Hands-On Machine Learning from Scratch
+## 📓 Project Overview
 
-Interested in deeper understanding of Machine Learning algorithms? Implement them in Python from scratch:
+- **Notebook**: [`fraud_detection.ipynb`](./fraud_detection.ipynb)
+- **Goal**: Build and evaluate models to accurately classify transactions as fraudulent or legitimate.
+- **Approach**:
+  - Data Cleaning & Preparation
+  - Exploratory Data Analysis (EDA)
+  - Feature Engineering
+  - Model Training & Evaluation
 
-<a href="https://leanpub.com/hmls" target="_blank">
-  <img src="https://raw.githubusercontent.com/curiousily/Machine-Learning-from-Scratch/master/.github/book-cover.png" width="250">
-</a>
+## 🛠️ Tools & Libraries
 
-<a href="https://leanpub.com/hmls" target="_blank">Read the book here</a>
+- Python (Jupyter Notebook)
+- `pandas`, `numpy`
+- `matplotlib`, `seaborn` for visualization
+- `scikit-learn` for ML models
+- `xgboost` (if used)
+- Evaluation metrics: Accuracy, Precision, Recall, F1-score, Confusion Matrix
+
+## 📊 EDA Highlights
+
+- Class imbalance visualizations
+- Feature distribution comparisons
+- Correlation heatmaps
+
+## 🤖 Models Trained
+
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- Support Vector Machine (SVM)
+- Gradient Boosting / XGBoost (if applicable)
+
+## 🧪 Model Evaluation
+
+Each model was evaluated using:
+
+- Confusion Matrix
+- Classification Report
+- ROC Curve (if plotted)
+- Cross-validation scores
+
+## 🔍 Key Findings
+
+- Significant class imbalance (fraud cases are rare).
+- Certain features have strong predictive power.
+- Ensemble models like Random Forest or XGBoost performed better on recall and precision metrics.
+
+## 📁 Project Structure
+
