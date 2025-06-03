@@ -78,7 +78,8 @@ Each model was evaluated using:
    ```bash
    git clone https://github.com/ibukunoluwa792/Credit-Card-Fraud-Detection-with-AutoEncode.git
    cd Credit-Card-Fraud-Detection-with-AutoEncode
-```
+   ```
+
 2. Install Requirements
 ```
 pip install -r requirements.txt
