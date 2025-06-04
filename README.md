@@ -7,7 +7,7 @@ This project explores the detection of fraudulent transactions using machine lea
 - **Notebook**: [`fraud_detection.ipynb`](./fraud_detection.ipynb)
 - **Goal**: Build and evaluate models to accurately classify transactions as fraudulent or legitimate.
 - **Approach**:
-  - Data Cleaning & Preparation
+  - Data Cleaning & Preparations
   - Exploratory Data Analysis (EDA)
   - Feature Engineering
   - Model Training & Evaluation
@@ -33,7 +33,7 @@ This project explores the detection of fraudulent transactions using machine lea
 - Decision Tree
 - Random Forest
 - Support Vector Machine (SVM)
-- Gradient Boosting / XGBoost (if applicable)
+- Gradient Boosting /// XGBoost (if applicable)
 
 ## 🧪 Model Evaluation
 
@@ -75,13 +75,13 @@ Each model was evaluated using:
 ## ✅ How to Run
 
 1. Clone the repository:
-   ```bash
+   ````bash
    git clone https://github.com/ibukunoluwa792/Credit-Card-Fraud-Detection-with-AutoEncode.git
    cd Credit-Card-Fraud-Detection-with-AutoEncode
-   ```
+   ````
 
 2. Install Requirements
-```
+````
 pip install -r requirements.txt
-```
+````
 
