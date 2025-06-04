@@ -7,10 +7,10 @@ This project explores the detection of fraudulent transactions using machine lea
 - **Notebook**: [`fraud_detection.ipynb`](./fraud_detection.ipynb)
 - **Goal**: Build and evaluate models to accurately classify transactions as fraudulent or legitimate.
 - **Approach**:
-  - Data Cleaning & Preparations
-  - Exploratory Data Analysis (EDA)
-  - Feature Engineering
-  - Model Training & Evaluation
+  - Data Cleaning & Preparations.
+  - Exploratory Data Analysis (EDA).
+  - Feature Engineering.
+  - Model Training & Evaluation.
 
 ## 🛠️ Tools & Libraries
 
@@ -29,20 +29,20 @@ This project explores the detection of fraudulent transactions using machine lea
 
 ## 🤖 Models Trained
 
-- Logistic Regression
-- Decision Tree
-- Random Forest
-- Support Vector Machine (SVM)
-- Gradient Boosting /// XGBoost (if applicable)
+- Logistic Regression.
+- Decision Tree.
+- Random Forest.
+- Support Vector Machine (SVM).
+- Gradient Boosting /// XGBoost (if applicable).
 
 ## 🧪 Model Evaluation
 
 Each model was evaluated using:
 
-- Confusion Matrix
-- Classification Report
-- ROC Curve (if plotted)
-- Cross-validation scores
+- Confusion Matrix.
+- Classification Report.
+- ROC Curve (if plotted).
+- Cross-validation scores.
 
 ## 🔍 Key Findings
 
@@ -55,33 +55,33 @@ Each model was evaluated using:
 ```
 .
 ├── data
-│   └── creditcardfraud.zip
-├── fraud_detection.ipynb
-├── LICENSE
-├── logs
-│   ├── events.out.tfevents.1497173435.poincare
-│   ├── events.out.tfevents.1497174259.poincare
-│   ├── events.out.tfevents.1497174328.poincare
-│   ├── events.out.tfevents.1497175610.poincare
-│   ├── events.out.tfevents.1497175679.poincare
-│   ├── events.out.tfevents.1497176316.poincare
-│   └── events.out.tfevents.1497193550.poincare
+│   └── creditcardfraud.zip.
+├── fraud_detection.ipynb.
+├── LICENSE.
+├── logs.
+│   ├── events.out.tfevents.1497173435.poincare.
+│   ├── events.out.tfevents.1497174259.poincare.
+│   ├── events.out.tfevents.1497174328.poincare.
+│   ├── events.out.tfevents.1497175610.poincare.
+│   ├── events.out.tfevents.1497175679.poincare.
+│   ├── events.out.tfevents.1497176316.poincare.
+│   └── events.out.tfevents.1497193550.poincare.
 ├── model.h5
 └── README.md
 
-2 directories, 12 files
+2 directories, 12 files.
 ```
 
 ## ✅ How to Run
 
 1. Clone the repository:
    ````bash
-   git clone https://github.com/ibukunoluwa792/Credit-Card-Fraud-Detection-with-AutoEncode.git
-   cd Credit-Card-Fraud-Detection-with-AutoEncode
+   git clone https://github.com/ibukunoluwa792/Credit-Card-Fraud-Detection-with-AutoEncode.git.
+   cd Credit-Card-Fraud-Detection-with-AutoEncode.
    ````
 
-2. Install Requirements
+2. Install Requirements.
 ````
-pip install -r requirements.txt
+pip install -r requirements.txt.
 ````
 
