@@ -1,6 +1,6 @@
 ### 🕵️‍♂️ Fraud Detection Using Machine Learning
 
-This project explores the detection of fraudulent transactions using machine learning techniques. It leverages data preprocessing, exploratory data analysis (EDA), and multiple classification algorithms to identify suspicious activities in financial database.
+This project helps explores the detection of fraudulent transactions using machine learning techniques. It leverages data preprocessing, exploratory data analysis (EDA), and multiple classification algorithms to identify suspicious activities in financial database.
 
 ### 📓 Project Overview
 
@@ -70,7 +70,7 @@ Each model was evaluated using:
 └── README.md
 
 2 directories, 12 files
-```
+``````````
 
 ### ✅ How to Run
 
