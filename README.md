@@ -16,10 +16,10 @@ This project helps explores the detection of fraudulent transactions using machi
 
 - Python (Jupyter Notebook)
 - `pandas`, `numpy`
-- `matplotlib`, `seaborn` for visualization
-- `scikit-learn` for ML models
-- `xgboost` (if used)
-- Evaluation metrics: Accuracy, Precision, Recall, F1-score, Confusion Matrix
+- `matplotlib`, `seaborn` for visualization.
+- `scikit-learn` for ML models'
+- `xgboost` (if used).
+- Evaluation metrics: Accuracy, Precision, Recall, F1-score, Confusion Matrix.
 
 ### 📊 EDA Highlights
 
