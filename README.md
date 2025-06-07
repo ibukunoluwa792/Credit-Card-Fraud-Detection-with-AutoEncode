@@ -75,7 +75,7 @@ Each model was evaluated using:
 ### ✅ How to Run
 
 1. Clone the repository:
-   ````bash
+   ````bash and fix
    git clone https://github.com/ibukunoluwa792/Credit-Card-Fraud-Detection-with-AutoEncode.git
    cd Credit-Card-Fraud-Detection-with-AutoEncode
    ````
