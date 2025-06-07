@@ -7,10 +7,10 @@ This project helps explores the detection of fraudulent transactions using machi
 - **Notebook**: [`fraud_detection.ipynb`](./fraud_detection.ipynb)
 - **Goal**: Build and evaluate models to accurately classify transactions as fraudulent or legitimate.
 - **Approach**:
-  - Data Cleaning & Preparations.
-  - Exploratory Data Analysis (EDA).
-  - Feature Engineering.
-  - Model Training & Evaluation.
+  - Data Cleaning & Preparations
+  - Exploratory Data Analysis (EDA)
+  - Feature Engineering
+  - Model Training & Evaluation
 
 ### 🛠️ Tools & Libraries
 
