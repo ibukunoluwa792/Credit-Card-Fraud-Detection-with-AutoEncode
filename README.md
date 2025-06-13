@@ -8,7 +8,7 @@ This project helps explores the detection of fraudulent transactions using machi
 - **Goal**: Build and evaluate models to accurately classify transactions as fraudulent or legitimate
 - **Approach**:
   - Data Cleaning & Preparations
-  - Exploratory Data Analysis (EDA).
+  - Exploratory Data Analysis (EDA)
   - Feature Engineering.
   - Model Training & Evaluation
 
