@@ -9,7 +9,7 @@ This project helps explores the detection of fraudulent transactions using machi
 - **Approach**:
   - Data Cleaning & Preparations
   - Exploratory Data Analysis (EDA)
-  - Feature Engineering.
+  - Feature Engineering
   - Model Training & Evaluation
 
 ### 🛠️ Tools & Libraries
